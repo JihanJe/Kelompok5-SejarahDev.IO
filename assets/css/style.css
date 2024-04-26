@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Assistant", sans-serif;
+}
+
+
+.bg-backr{
+    background-color: #004b49;
+}
+.bnner img{
+    max-height: 40px;
+    margin-right: 10px;
+}
+.hero{
+   padding-top: 90px;
+    
+}
+.display-3{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 100px;
+    font-family: "Assistant", sans-serif;
+}
+
+.nav-item .nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.bg-backr{
+    padding: 20px;
+}
+.nav-item .btn-long{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.bg-img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}
+
+.bg-mmtm{
+    margin-top: 100px;
+}
+.display-4{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 100px;
+    font-family: "Assistant", sans-serif;
+}
+.bg-gll{
+    margin-top: 100px;
+}
+.icons{
+    text-decoration: none;
+    color: black;
+    font-family: "Assistant", sans-serif;
+}
+.btn-clr{
+    background-color: #004b49;
+    font-weight: normal;
+    color: white;
+}
+.btn-clr:hover{
+    background-color: #04726e;
+    color: white;
+}
+
+ul{
+    a{
+        i{
+            font-family: "Assistant", sans-serif;
+            color: #6b6b6b;
+        }
+    }
+}
+.bi-justify{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
